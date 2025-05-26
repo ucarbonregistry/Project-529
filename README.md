@@ -50,7 +50,12 @@ Line -2A /Dahisar (East) - /Dahanukarwadi /9.8 km/ 9/ 02/04/2022
 Line -2A/Dahanukarwadi/ Andheri West /8.8 km /8 /20/01/2023
 ___________________
 Line - 7 /Ovaripada - Aarey /10.7 km/ 9/ 02/04/2022
-_____________
+
 Line - 7 /Aarey - Gundavali/ 5.8 km/ 4 /20/01/2023
 _________________
-
+Year /Annual Passenger Flow /PSPER /Expanded baseline emission (gCO2e) /Baseline Emission (tCO2e)
+____________________
+2023/ 6,19,09,985/ 1,39,032/ 18,20,31,856 /81,058
+____________
+2024/ 7,91,47,302/ 1,39,092 /18,06,71,219/ 1,02,807
+____________
